@@ -14,7 +14,6 @@ import ctypes
 
 broker = 'your_broker'
 port = 5392
-topic = "/pc/set/onoffstate"
 ONOFFSTATE_ILLUMINATION        = "/pc/set/onoffstate_illumination"
 ONOFFSTATE_ILLUMINATION_STATUS = "/pc/status/onoffstate_illumination"      
 BRIGHTNESS_ILLUMINATION        = "/pc/set/brightness_illumination"
